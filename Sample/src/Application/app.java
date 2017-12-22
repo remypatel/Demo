@@ -6,6 +6,7 @@ public class app {
 	
 User user=new User();
 user.show();
+user.start();
 	}
 
 }
