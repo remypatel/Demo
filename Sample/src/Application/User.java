@@ -13,4 +13,7 @@ public void start() {
 	System.out.println("other addes");
 	System.out.println("other addes");
 }
+public void add(){
+	System.out.println("adding ");
+}
 }
