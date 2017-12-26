@@ -24,5 +24,9 @@ public class main2 {
 		System.out.println("new mwthod");
 		
 	}
+	public void  add4() {
+		System.out.println("new mwthod");
+		
+	}
 
 }
