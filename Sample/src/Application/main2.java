@@ -16,7 +16,7 @@ public class main2 {
 	public void  add5() {
 		System.out.println("new mwthod");
 		System.out.println("new mwthod");
-		System.out.println("new mwthod1");
+	
 
 		
 	}
